@@ -9,7 +9,7 @@ My work involves:
 
 ### 🔬 Current work
 - Honours thesis applying machine learning to astrophysical data  
-  *(private repository – publication pending)*
+  *unpolished repository as of yet*
 
 ### 🧰 Technical stack
 - Python (including ML tools such as TensorFlow)
