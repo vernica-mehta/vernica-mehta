@@ -20,5 +20,3 @@ My work involves:
 ### 📌 Selected projects
 - **[project-10]** – software created in collaboration to model an exoplanet atmosphere
 - **[wifes-catalog]** – software created in collaboration to generate a catalogue of target points for a telescope
-
-📫 LinkedIn: https://linkedin.com/in/vernica-mehta
